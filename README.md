@@ -1,4 +1,3 @@
-<!DOCTYPE HTML>  
 <meta http-equiv="content-type" content="text/html;charset=gbk" />
 <html>  
 <head>  
